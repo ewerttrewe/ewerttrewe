@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewerttrewe
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning django,flask,react
+- 🌱 I’m currently learning Django,Js,React 
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me szymonewert@gmail.com
 <br>
