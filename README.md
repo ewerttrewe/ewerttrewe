@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 I'm passionate about coding and building awesome things. Here are some highlights about me:
 
 - 🌱 I’m currently learning React, Docker, Express.Js, Next.Js
