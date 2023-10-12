@@ -1,6 +1,5 @@
 I'm passionate about coding and building awesome things. Here are some highlights about me:
 
-- 🌱 I’m currently learning React, Docker, Express.Js, Next.Js
 - 👯 I’m looking to collaborate on interesting open-source projects
 - 📫 How to reach me: [szymonewert@gmail.com](mailto:szymonewert@gmail.com)
 
