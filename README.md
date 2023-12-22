@@ -15,7 +15,7 @@ I'm passionate about coding and building awesome things. Here are some highlight
 
 Here are some of my notable projects:
 
-- [fullstack-real-estate-app](https://github.com/ewerttrewe/fullstack-real-estate-app), real estate app for selling, buying, renting and auctioning properties.
+- [django-real-estate-REST-app](https://github.com/ewerttrewe/fullstack-real-estate-app), real estate app for selling, buying, renting and auctioning properties.
 - [django-blog](https://github.com/ewerttrewe/django-blogapp), simple blog application - CRUD.
 - [django-ecommerce](https://github.com/ewerttrewe/django-ecommerce) simple ecommerce app - implementation of PayPal payments.
 
