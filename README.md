@@ -1,5 +1,6 @@
 I'm passionate about coding and building awesome things. Here are some highlights about me:
 
+- Master of engineering in Information Technology, Gdańsk University of Technology
 - 👯 I’m looking to collaborate on interesting open-source projects
 - 📫 How to reach me: [szymonewert@gmail.com](mailto:szymonewert@gmail.com)
 
