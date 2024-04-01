@@ -17,9 +17,10 @@ I'm passionate about coding and building awesome things. Here are some highlight
 Here are some of my notable projects:
 
 - [django-real-estate-REST-app](https://github.com/ewerttrewe/fullstack-real-estate-app), real estate app for selling, buying, renting and auctioning properties.
+- [django-ecommerce](https://github.com/ewerttrewe/django-ecommerce) simple ecommerce app - implementation of PayPal payments.
 - [django-blog](https://github.com/ewerttrewe/django-blogapp), simple blog application - CRUD.
 - [flask-urlshortener](https://github.com/ewerttrewe/flask-rest-url-shortener-api), simple urlshortener API - Flask without ORM, using mysql connector, small integration test written for fun :)
-- [django-ecommerce](https://github.com/ewerttrewe/django-ecommerce) simple ecommerce app - implementation of PayPal payments.
+
 
 Feel free to explore my repositories and connect with me!
 
