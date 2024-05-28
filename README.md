@@ -1,6 +1,6 @@
 I'm passionate about coding and building awesome things. Here are some highlights about me:
 
-- Master of engineering in Information Technology, Gdańsk University of Technology
+- Master of engineering in Information Technology, Gdańsk University of Technology faculty of 
 - 👯 I’m looking to collaborate on interesting open-source projects
 - 📫 How to reach me: [szymonewert@gmail.com](mailto:szymonewert@gmail.com)
 
@@ -20,7 +20,7 @@ Here are some of my notable projects:
 - [django-ecommerce](https://github.com/ewerttrewe/django-ecommerce) simple ecommerce app - implementation of PayPal payments.
 - [django-blog](https://github.com/ewerttrewe/django-blogapp), simple blog application - CRUD.
 - [flask-urlshortener](https://github.com/ewerttrewe/flask-rest-url-shortener-api), simple urlshortener API - Flask without ORM, using mysql connector, small integration test written for fun :)
-
+- [flask-real-time-web-analytics-app](https://github.com/ewerttrewe/flask-real-time-web-analytics), API made with Flask, MySQL, Docker, Redis to imitate the behaviour of real time web analytics services.
 
 Feel free to explore my repositories and connect with me!
 
