@@ -4,10 +4,6 @@ I'm passionate about coding and building awesome things. Here are some highlight
 - 👯 I’m looking to collaborate on interesting open-source projects
 - 📫 How to reach me: [szymonewert@gmail.com](mailto:szymonewert@gmail.com)
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerttrewe&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttrewe&layout=compact&theme=radical)
