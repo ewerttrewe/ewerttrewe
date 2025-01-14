@@ -3,7 +3,6 @@ I'm passionate about coding and building awesome things. Here are some highlight
 - Junior Python Developer
 - Master of engineering in Information Technology, Gdańsk University of Technology faculty of Computer systems and Networks
 - 👯 I’m looking to collaborate on interesting open-source projects
-- 📫 How to reach me: [szymonewert@gmail.com](mailto:szymonewert@gmail.com)
 
 ## Top Languages
 
