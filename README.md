@@ -1,8 +1,4 @@
-I'm passionate about coding and building awesome things. Here are some highlights about me:
-
-- Junior Backend Developer
-- Master of engineering in Information Technology, Gdańsk University of Technology faculty of Computer systems and Networks
-- 👯 I’m looking to collaborate on interesting open-source projects
+- Junior Backend Developer at FSS sp. ZO.O
 
 ## Top Languages
 
